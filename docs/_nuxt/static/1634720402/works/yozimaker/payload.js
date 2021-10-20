@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/yozimaker", {data:[{}],fetch:{},mutations:void 0});

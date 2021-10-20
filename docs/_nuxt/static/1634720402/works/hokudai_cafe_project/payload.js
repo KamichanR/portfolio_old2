@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/hokudai_cafe_project", {data:[{}],fetch:{},mutations:void 0});

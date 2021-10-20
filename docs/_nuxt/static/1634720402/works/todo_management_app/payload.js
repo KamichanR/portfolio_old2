@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/todo_management_app", {data:[{}],fetch:{},mutations:void 0});
