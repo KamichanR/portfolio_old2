@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1634724027",layout:"default",error:a,serverRendered:true,routePath:"\u002Fworks\u002Fhokudai_cafe_project",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"9f1c5fc8"}}}}(null));

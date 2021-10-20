@@ -87,7 +87,7 @@ export default {
   },
 
   router: {
-    base: '/portfolio/',
+    base: '/',
   },
 
   generate: {
