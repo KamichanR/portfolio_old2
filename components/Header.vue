@@ -2,7 +2,7 @@
   <header class="flex flex-col md:flex-row justify-between m-auto max-w-5xl">
     <div class="mx-4 my-4 md:my-auto">
       <h1>
-        <a href="/">
+        <a href="/portfolio/">
           <img class="w-64" src="/portfolio/logo_wide.png" alt="Kamichan_R">
         </a>
       </h1>
