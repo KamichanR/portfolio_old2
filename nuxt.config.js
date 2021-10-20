@@ -18,7 +18,7 @@ export default {
       { name: 'twitter:creator', content: 'Kamichan_R' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/portfolio/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap' }
     ]
@@ -78,15 +78,6 @@ export default {
   },
 
   target: 'static',
-
-  publicRuntimeConfig: {
-    baseURL: process.env.BASE_URL || 'http://locahost:3000',
-    apiURL: process.env.API_URL || 'http://localhost:3000',
-  },
-
-  privateRuntimeConfig: {
-    secret: process.env.SECRET_KEY,
-  },
 
   // nuxt-webfontloader
   webfontloader: {

@@ -3,7 +3,7 @@
     <div class="mx-4 my-4 md:my-auto">
       <h1>
         <a href="/">
-          <img class="w-64" src="/logo_wide.png" alt="Kamichan_R">
+          <img class="w-64" src="/portfolio/logo_wide.png" alt="Kamichan_R">
         </a>
       </h1>
     </div>
@@ -12,17 +12,17 @@
         <ul>
           <li>
             <a href="https://twitter.com/Kamichan_R" target="_blank" rel="noopener noreferrer">
-              <img src="/social-icon/twitter.png" alt="Twitter">
+              <img src="/portfolio/social-icon/twitter.png" alt="Twitter">
             </a>
           </li>
           <li>
             <a href="https://qiita.com/Kamichan_R" target="_blank" rel="noopener noreferrer">
-              <img src="/social-icon/qiita.png" alt="Qiita">
+              <img src="/portfolio/social-icon/qiita.png" alt="Qiita">
             </a>
           </li>
           <li>
             <a href="https://github.com/KamichanR" target="_blank" rel="noopener noreferrer">
-              <img src="/social-icon/github.png" alt="GitHub">
+              <img src="/portfolio/social-icon/github.png" alt="GitHub">
             </a>
           </li>
         </ul>
@@ -30,16 +30,16 @@
       <nav>
         <ul class="font-semibold text-xl md:text-2xl">
           <li>
-            <a href="/#skills">Skills</a>
+            <a href="/portfolio/#skills">Skills</a>
           </li>
           <li>
-            <a href="/#works">Works</a>
+            <a href="/portfolio/#works">Works</a>
           </li>
           <li>
-            <a href="/#about">About</a>
+            <a href="/portfolio/#about">About</a>
           </li>
           <li>
-            <a href="/#contact">Contact</a>
+            <a href="/portfolio/#contact">Contact</a>
           </li>
         </ul>
       </nav>

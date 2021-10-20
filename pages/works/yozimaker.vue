@@ -11,9 +11,9 @@
           class="swiper my-4"
           :options="swiperOptions"
         >
-          <swiper-slide><img src="/works/yozimaker/01.png" /></swiper-slide>
-          <swiper-slide><img src="/works/yozimaker/02.png" /></swiper-slide>
-          <swiper-slide><img src="/works/yozimaker/03.png" /></swiper-slide>
+          <swiper-slide><img src="/portfolio/works/yozimaker/01.png" /></swiper-slide>
+          <swiper-slide><img src="/portfolio/works/yozimaker/02.png" /></swiper-slide>
+          <swiper-slide><img src="/portfolio/works/yozimaker/03.png" /></swiper-slide>
         </swiper>
       </section>
       <div class="flex flex-col m-12">

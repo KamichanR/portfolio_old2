@@ -11,13 +11,13 @@
           class="swiper my-4"
           :options="swiperOptions"
         >
-          <swiper-slide><img src="/works/portfolio/01.png" /></swiper-slide>
-          <swiper-slide><img src="/works/portfolio/02.png" /></swiper-slide>
-          <swiper-slide><img src="/works/portfolio/03.png" /></swiper-slide>
+          <swiper-slide><img src="/portfolio/works/portfolio/01.png" /></swiper-slide>
+          <swiper-slide><img src="/portfolio/works/portfolio/02.png" /></swiper-slide>
+          <swiper-slide><img src="/portfolio/works/portfolio/03.png" /></swiper-slide>
         </swiper>
       </section>
       <div class="flex flex-col m-12">
-        <a class="underline" href="/" target="_blank" rel="noopener noreferrer">kamichanr.github.io/portfolio/</a>
+        <a class="underline" href="/portfolio/" target="_blank" rel="noopener noreferrer">kamichanr.github.io/portfolio/</a>
         <p class="font-semibold my-8 text-center">
           Design, Planning, HTML/CSS, JavaScript, Vue.js, Nuxt.js, GitHub, Photoshop, Illustrator
         </p>

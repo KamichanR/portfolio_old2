@@ -3,16 +3,16 @@
     <nav class="m-end">
       <ul class="font-semibold">
         <li>
-          <a href="/#skills">Skills</a>
+          <a href="/portfolio/#skills">Skills</a>
         </li>
         <li>
-          <a href="/#works">Works</a>
+          <a href="/portfolio/#works">Works</a>
         </li>
         <li>
-          <a href="/#about">About</a>
+          <a href="/portfolio/#about">About</a>
         </li>
         <li>
-          <a href="/#contact">Contact</a>
+          <a href="/portfolio/#contact">Contact</a>
         </li>
       </ul>
     </nav>

@@ -24,7 +24,7 @@
             <h3>設計・デザイン</h3>
             <p>Web & Application Design</p>
           </div>
-          <img src="/skills/web_design.png" alt="Web Design" class="px-1/10 py-8">
+          <img src="/portfolio/skills/web_design.png" alt="Web Design" class="px-1/10 py-8">
           <p>
             内容やコンセプトがユーザーに伝わりやすく、使いやすいサイト設計をします。アニメーションや構成部品のデザインも工夫して、ユーザーに快適な環境と体験を提供することを第一に考えています。Webサイトだけでなくアプリ開発もしています。
           </p>
@@ -34,7 +34,7 @@
             <h3>コーディング</h3>
             <p>Coding</p>
           </div>
-          <img src="/skills/coding.png" alt="Coding" class="px-1/10 py-8">
+          <img src="/portfolio/skills/coding.png" alt="Coding" class="px-1/10 py-8">
           <p>
             サイトのコンセプトやユーザーにとって使いやすいサイト・アプリを実現させます。レスポンシブ対応やアニメーションの使用など様々な状況に対応します。フレームワークやライブラリを活用して、効率的かつ最適な制作をしていきます。
           </p>
@@ -44,7 +44,7 @@
             <h3>ロゴ制作</h3>
             <p>Logo Design</p>
           </div>
-          <img src="/skills/logo_design.png" alt="Logo Design" class="px-1/10 py-8">
+          <img src="/portfolio/skills/logo_design.png" alt="Logo Design" class="px-1/10 py-8">
           <p>
             イメージやコンセプトが伝わりやすく、印象に残りやすいロゴづくりを目指しています。常にロゴのもつ意図を意識して、それが効果的に伝わる配置・配色・文字を考えています。また、シンプルかつ斬新なデザインを常に追い求めています。
           </p>
@@ -73,28 +73,28 @@
       <h2 class="pb-4 text-center">Works</h2>
       <ul class="grid md:grid-cols-3">
         <li class="m-4">
-          <a href="/works/hokudai_cafe_project">
-            <img src="/works/hokudai_cafe_project/01.png" alt="Hokudai Café Project">
+          <a href="/portfolio/works/hokudai_cafe_project">
+            <img src="/portfolio/works/hokudai_cafe_project/01.png" alt="Hokudai Café Project">
           </a>
         </li>
         <li class="m-4">
-          <a href="/works/portfolio">
-            <img src="/works/portfolio/01.png" alt="Portfolio">
+          <a href="/portfolio/works/portfolio">
+            <img src="/portfolio/works/portfolio/01.png" alt="Portfolio">
           </a>
         </li>
         <li class="m-4">
-          <a href="/works/yozimaker">
-            <img src="/works/yozimaker/01.png" alt="Yozi Maker">
+          <a href="/portfolio/works/yozimaker">
+            <img src="/portfolio/works/yozimaker/01.png" alt="Yozi Maker">
           </a>
         </li>
         <li class="m-4">
-          <a href="/works/todo_management_app">
-            <img src="/works/todo_management_app/01.png" alt="ToDo Application">
+          <a href="/portfolio/works/todo_management_app">
+            <img src="/portfolio/works/todo_management_app/01.png" alt="ToDo Application">
           </a>
         </li>
         <li class="m-4">
-          <a href="/works/bbs">
-            <img src="/works/bbs/01.png" alt="BBS">
+          <a href="/portfolio/works/bbs">
+            <img src="/portfolio/works/bbs/01.png" alt="BBS">
           </a>
         </li>
       </ul>

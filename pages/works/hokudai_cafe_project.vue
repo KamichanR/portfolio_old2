@@ -11,9 +11,9 @@
           class="swiper my-4"
           :options="swiperOptions"
         >
-          <swiper-slide><img src="/works/hokudai_cafe_project/01.png" /></swiper-slide>
-          <swiper-slide><img src="/works/hokudai_cafe_project/02.png" /></swiper-slide>
-          <swiper-slide><img src="/works/hokudai_cafe_project/03.png" /></swiper-slide>
+          <swiper-slide><img src="/portfolio/works/hokudai_cafe_project/01.png" /></swiper-slide>
+          <swiper-slide><img src="/portfolio/works/hokudai_cafe_project/02.png" /></swiper-slide>
+          <swiper-slide><img src="/portfolio/works/hokudai_cafe_project/03.png" /></swiper-slide>
         </swiper>
       </section>
       <div class="flex flex-col m-12">
