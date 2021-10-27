@@ -43,6 +43,8 @@ export default {
     '@nuxtjs/stylelint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    // Google Analytics
+    '@nuxtjs/google-gtag',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -56,6 +58,11 @@ export default {
     // nuxt-webfontloader
     'nuxt-webfontloader',
   ],
+
+  // Google Analytics
+  'google-gtag': {
+    id: 'G-QTPZVMVP05',
+  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
